@@ -7,11 +7,17 @@ const sidebars = {
       id: 'self/readme',
     },
     {
-      type: 'doc',
-      label: '从 活着 到 活得好',
-      id: 'self/speed-to-happiness',
-    },
-    
+        type: 'category',
+        label: '心智',
+        items: [
+            {
+            type: 'doc',
+            label: '幸福: 从 活着 到 活得好',
+            
+            id: 'self/mind/happiness',
+            },
+        ]
+    }
   ],
   society: [
   ],

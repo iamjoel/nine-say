@@ -11,15 +11,35 @@ const sidebars = {
         label: '心智',
         items: [
             {
-            type: 'doc',
-            label: '幸福: 从 活着 到 活得好',
-            
-            id: 'self/mind/happiness',
+              type: 'doc',
+              label: '幸福: 从 活着 到 活得好',
+              id: 'self/mind/happiness',
             },
         ]
-    }
+    },
+    {
+      type: 'category',
+      label: '健康',
+      items: [
+        {
+          type: 'doc',
+          label: '身体健康',
+          id: 'self/health/physical/readme',
+        },
+      ]
+    },
   ],
   society: [
+    {
+      type: 'doc',
+      label: '社会',
+      id: 'society/readme',
+    },
+    {
+      type: 'doc',
+      label: '经济',
+      id: 'society/economy/readme',
+    },
   ],
 };
 

@@ -58,6 +58,12 @@ const config = {
             position: 'left',
             label: '自身',
           },
+          {
+            type: 'doc',
+            docId: 'society/readme',
+            position: 'left',
+            label: '社会',
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/iamjoel/nine-say',

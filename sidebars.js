@@ -10,11 +10,16 @@ const sidebars = {
         type: 'category',
         label: '心智',
         items: [
-            {
-              type: 'doc',
-              label: '幸福: 从 活着 到 活得好',
-              id: 'self/mind/happiness',
-            },
+          {
+            type: 'doc',
+            label: '幸福',
+            id: 'self/mind/happiness',
+          },
+          {
+            type: 'doc',
+            label: '情商',
+            id: 'self/mind/eq',
+          },
         ]
     },
     {
@@ -23,11 +28,21 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          label: '身体健康',
+          label: '保持身体健康',
           id: 'self/health/physical/readme',
+        },
+        {
+          type: 'doc',
+          label: '保持心理健康',
+          id: 'self/health/psychology/readme',
         },
       ]
     },
+    {
+      type: 'doc',
+      label: '财富',
+      id: 'self/wealth/readme',
+    }
   ],
   society: [
     {
@@ -39,6 +54,11 @@ const sidebars = {
       type: 'doc',
       label: '经济',
       id: 'society/economy/readme',
+    },
+    {
+      type: 'doc',
+      label: '历史',
+      id: 'society/history/readme',
     },
   ],
 };

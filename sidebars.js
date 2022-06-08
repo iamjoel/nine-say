@@ -56,9 +56,32 @@ const sidebars = {
       id: 'society/economy/readme',
     },
     {
-      type: 'doc',
+      type: 'category',
       label: '历史',
-      id: 'society/history/readme',
+      items: [
+        {
+          type: 'doc',
+          label: '介绍',
+          id: 'society/history/readme',
+        },
+        {
+          type: 'category',
+          label: '牛人',
+          items: [
+            {
+              type: 'doc',
+              label: '王守仁(阳明)',
+              id: 'society/history/people/wangyangming',
+            },
+            {
+              type: 'doc',
+              label: '曾国藩',
+              id: 'society/history/people/zengguofan',
+            },
+          ]
+        },
+        
+      ]
     },
   ],
 };

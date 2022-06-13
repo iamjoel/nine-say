@@ -7,7 +7,7 @@
 * [《贪婪的多巴胺》](https://book.douban.com/subject/35545272/)
 
 ### 行为经济学
-* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/)
+* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/) [书摘](/doc/self/mind/resource/scarcity)
 * [《思考，快与慢》](https://book.douban.com/subject/10785583/)
 * [《超越智商》](https://book.douban.com/subject/26605978/) 提高理性的方法
 

@@ -7,7 +7,7 @@
 * [《贪婪的多巴胺》](https://book.douban.com/subject/35545272/)
 
 ### 行为经济学
-* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/) [书摘](/doc/self/mind/resource/scarcity)
+* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/) **[书摘](https://iamjoel.github.io/nine-say/build/self/mind/resource/scarcity/readme)**
 * [《思考，快与慢》](https://book.douban.com/subject/10785583/)
 * [《超越智商》](https://book.douban.com/subject/26605978/) 提高理性的方法
 
@@ -23,7 +23,7 @@
 * [《费曼学习法: 用输出倒逼输入》](https://book.douban.com/subject/35368398/)
 
 ## 历史
-* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) [书摘](/docs/society/history/resource/a-brief-history-of-humankind)
+* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) [书摘](https://iamjoel.github.io/nine-say/build/docs/society/history/resource/a-brief-history-of-humankind)
 * [《枪炮、病菌与钢铁: 人类社会的命运》](https://book.douban.com/subject/1813841/)
 * [《中国简史》](https://book.douban.com/subject/35200401/)
 * [《中国历代政治得失》](https://book.douban.com/subject/1003479/)

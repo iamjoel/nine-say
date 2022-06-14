@@ -26,7 +26,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars/index.js'),
           editUrl:
             'https://github.com/iamjoel/nine-say',
         },
@@ -52,6 +52,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'doc',
+            docId: 'base/readme',
+            position: 'left',
+            label: '底层',
+          },
           {
             type: 'doc',
             docId: 'self/readme',

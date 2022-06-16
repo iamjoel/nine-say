@@ -1,2 +1,2 @@
 # 资源
-<!-- * [书](./book/readme) -->
+* [书](./book/readme.md)

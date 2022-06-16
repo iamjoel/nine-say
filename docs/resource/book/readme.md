@@ -4,10 +4,13 @@
 > 读书是你接触顶级智者思想的唯一途径。
 
 ## 关于人
+> 控制饮食、减肥、锻炼身体、禁欲、推迟满足感、忍受孤独、戒除成瘾行为、无视他人评价、坚持、理性思考、脱离舒适区……这些都是反人性的事情。
+> 我们在大多数情况下靠本能驱使，只不过大脑会让你有种幻觉，觉得这一切是你的意识自行决定的。
+
 * [《贪婪的多巴胺》](https://book.douban.com/subject/35545272/)
 
 ### 行为经济学
-* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/) **[书摘](https://iamjoel.github.io/nine-say/build/self/mind/resource/scarcity/readme)**
+* [《稀缺: 我们是如何陷入贫穷与忙碌的》](https://book.douban.com/subject/30612847/) **[书摘](/docs/self/mind/resource/scarcity)**
 * [《思考，快与慢》](https://book.douban.com/subject/10785583/)
 * [《超越智商》](https://book.douban.com/subject/26605978/) 提高理性的方法
 
@@ -23,7 +26,7 @@
 * [《费曼学习法: 用输出倒逼输入》](https://book.douban.com/subject/35368398/)
 
 ## 历史
-* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) [书摘](https://iamjoel.github.io/nine-say/build/docs/society/history/resource/a-brief-history-of-humankind)
+* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) **[书摘](/docs/society/history/resource/a-brief-history-of-humankind)**
 * [《枪炮、病菌与钢铁: 人类社会的命运》](https://book.douban.com/subject/1813841/)
 * [《中国简史》](https://book.douban.com/subject/35200401/)
 * [《中国历代政治得失》](https://book.douban.com/subject/1003479/)
@@ -53,6 +56,9 @@
 ## 政治
 * [《可能性的艺术: 比较政治学30讲》](https://book.douban.com/subject/35819419/) 刘瑜
 
+## 科学
+* [《量子大唠嗑》](https://book.douban.com/subject/26877276/)
+
 ## 小说
 ### 科幻
 * [《三体全集: 地球往事三部曲》](https://book.douban.com/subject/6518605/)
@@ -61,8 +67,9 @@
 * [《三少爷的剑》](https://book.douban.com/subject/1089511/)
 * [《七种武器》](https://book.douban.com/subject/1521829/)
 
-## 悬疑
+## 推理 & 悬疑
 * [《嫌疑人X的献身》](https://book.douban.com/subject/25924253/)
+* [《绝叫》](https://book.douban.com/subject/35031587/)
 
 ### 其他
 * [《美丽新世界》](https://book.douban.com/subject/27002046/)

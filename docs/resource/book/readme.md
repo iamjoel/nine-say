@@ -26,7 +26,7 @@
 * [《费曼学习法: 用输出倒逼输入》](https://book.douban.com/subject/35368398/)
 
 ## 历史
-* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) **[书摘](/docs/society/history/resource/a-brief-history-of-humankind)**
+* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) **[书摘](/docs/society/history/resource/a-brief-history-of-humankind)** 
 * [《枪炮、病菌与钢铁: 人类社会的命运》](https://book.douban.com/subject/1813841/)
 * [《中国简史》](https://book.douban.com/subject/35200401/)
 * [《中国历代政治得失》](https://book.douban.com/subject/1003479/)
@@ -55,6 +55,11 @@
 
 ## 政治
 * [《可能性的艺术: 比较政治学30讲》](https://book.douban.com/subject/35819419/) 刘瑜
+* 反乌托邦三部曲
+  * [《美丽新世界》](https://book.douban.com/subject/27002046/) **[书摘](/docs/society/politics/resource/book/beautiful-new-world)**
+  * [《1984》](https://book.douban.com/subject/4820710/)
+  * [《我们》](https://book.douban.com/subject/26879595/)
+
 
 ## 科学
 * [《量子大唠嗑》](https://book.douban.com/subject/26877276/)
@@ -72,9 +77,7 @@
 * [《绝叫》](https://book.douban.com/subject/35031587/)
 
 ### 其他
-* [《美丽新世界》](https://book.douban.com/subject/27002046/)
 * [《动物农场》](https://book.douban.com/subject/2035179/)
-* [《1984》](https://book.douban.com/subject/4820710/)
 
 
 ## 资源

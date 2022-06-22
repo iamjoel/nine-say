@@ -55,6 +55,7 @@
 
 ## 政治
 * [《可能性的艺术: 比较政治学30讲》](https://book.douban.com/subject/35819419/) 刘瑜
+* [《财富、贫穷与政治》](https://book.douban.com/subject/35553279/)
 * 反乌托邦三部曲
   * [《美丽新世界》](https://book.douban.com/subject/27002046/) **[书摘](/docs/society/politics/resource/book/beautiful-new-world)**
   * [《1984》](https://book.douban.com/subject/4820710/)

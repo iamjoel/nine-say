@@ -26,7 +26,10 @@
 * [《费曼学习法: 用输出倒逼输入》](https://book.douban.com/subject/35368398/)
 
 ## 历史
-* [《人类简史 - 从动物到上帝》](https://book.douban.com/subject/25985021/) **[书摘](/docs/society/history/resource/a-brief-history-of-humankind)** 
+* 人类简史三部曲
+  * [《人类简史 : 从动物到上帝》](https://book.douban.com/subject/25985021/) **[书摘](/docs/society/history/resource/a-brief-history-of-humankind)** 
+  * [《未来简史 : 从智人到智神》](https://book.douban.com/subject/26945094/)
+  * [《今日简史 : 人类命运大议题》](https://book.douban.com/subject/30259720/)
 * [《枪炮、病菌与钢铁: 人类社会的命运》](https://book.douban.com/subject/1813841/)
 * [《中国简史》](https://book.douban.com/subject/35200401/)
 * [《中国历代政治得失》](https://book.douban.com/subject/1003479/)

@@ -34,9 +34,19 @@ const sideBar = [
           },
         ]
       },
-      
     ]
   },
+  {
+    type: 'category',
+    label: '段子',
+    items: [
+      {
+        type: 'doc',
+        label: '介绍',
+        id: 'society/funny/readme',
+      },
+    ]
+  }
 ]
 
 module.exports = sideBar

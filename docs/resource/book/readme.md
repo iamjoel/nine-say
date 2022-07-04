@@ -80,6 +80,12 @@
 * [《嫌疑人X的献身》](https://book.douban.com/subject/25924253/)
 * [《绝叫》](https://book.douban.com/subject/35031587/)
 
+## 教育
+* [《了凡四训》](https://book.douban.com/subject/2083981/)
+* 颜氏家训
+* 曾国藩家书
+* 哈佛家训
+
 ### 其他
 * [《动物农场》](https://book.douban.com/subject/2035179/)
 
